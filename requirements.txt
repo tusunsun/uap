@@ -1,0 +1,8 @@
+numpy
+scipy
+opencv-python-headless
+pillow
+numba
+imageio-ffmpeg
+fonttools
+brotli
